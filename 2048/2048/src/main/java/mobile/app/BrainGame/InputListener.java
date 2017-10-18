@@ -1,4 +1,4 @@
-package com.tpcstld.twozerogame;
+package mobile.app.BrainGame;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;

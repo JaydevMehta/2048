@@ -1,4 +1,4 @@
-package com.tpcstld.twozerogame;
+package mobile.app.BrainGame;
 
 public class Cell {
     private int x;

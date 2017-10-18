@@ -1,4 +1,4 @@
-package com.tpcstld.twozerogame;
+package mobile.app.BrainGame;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
